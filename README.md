@@ -60,11 +60,11 @@ stock-price-prediction-lstm/
 
 ```bash
 # 1️⃣ Clone the repository
-cd stock-price-prediction-lstm
+cd LSTM-stock-price-prediction
 
 # 2️⃣ Create virtual environment (recommended)
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # 3️⃣ Install dependencies
 pip install -r requirements.txt
@@ -184,8 +184,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - **TensorFlow Team** for the excellent deep learning framework
 - **Streamlit** for making web app development simple and elegant
 
----
-
-## 👨‍💻 Author
 
 
