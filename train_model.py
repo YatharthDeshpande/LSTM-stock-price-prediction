@@ -1,5 +1,5 @@
 # Training file for Stock Price Prediction using LSTM with tuning
-# A. Jayavanth
+
 
 import numpy as np
 import pandas as pd

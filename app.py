@@ -1,5 +1,4 @@
 # Stock Price Prediction using LSTM
-# Name: A. Jayavanth
 
 import numpy as np
 import pandas as pd
@@ -17,7 +16,6 @@ seq_len = 120
 # UI setup
 st.set_page_config(page_title="📈 Stock Price Prediction", layout="wide")
 st.markdown("<h1 style='text-align:center;color:#4CAF50;'>📈 Stock Price Prediction using LSTM</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align:center;color:#A9A9A9;'>By A. Jayavanth</h4>", unsafe_allow_html=True)
 # Input
 stock = st.text_input('Enter Stock Symbol:', 'WMT')
 start = '2012-01-01'
