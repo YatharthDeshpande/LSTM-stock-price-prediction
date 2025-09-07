@@ -42,7 +42,6 @@ stock-price-prediction-lstm/
 ├── 🌐 app.py                # Streamlit web application
 ├── 📋 requirements.txt      # Python dependencies
 ├── 📚 README.md             # Project documentation
-├── 🚫 .gitignore            # Git ignore rules
 └── 📁 models/               # Trained model storage (auto-created)
     └── best_stock_model.keras
 ```
@@ -151,30 +150,6 @@ Key libraries used in this project:
 - **numpy**: Numerical computations
 - **matplotlib/plotly**: Data visualization
 - **scikit-learn**: Machine learning utilities
-
----
-
-## 🔮 Future Enhancements
-
-- [ ] 📊 Multiple timeframe predictions (weekly, monthly)
-- [ ] 🌐 Cryptocurrency price prediction support
-- [ ] 📱 Mobile-responsive design improvements
-- [ ] 🔔 Price alert notifications
-- [ ] 📈 Portfolio optimization features
-- [ ] 🤖 Advanced ensemble models
-- [ ] ☁️ Cloud deployment (AWS/Heroku)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
