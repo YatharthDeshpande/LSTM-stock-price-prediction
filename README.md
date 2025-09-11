@@ -159,5 +159,22 @@ Key libraries used in this project:
 - **TensorFlow Team** for the excellent deep learning framework
 - **Streamlit** for making web app development simple and elegant
 
+## 👨‍💻 Author
 
+<div align="center">
+
+**[A. Jayavanth](https://github.com/jayavanth18)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-jayavanth18-black?logo=github&logoColor=white)](https://github.com/jayavanth18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayavanth18/)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you found this project helpful, please give it a star! ⭐**
+
+</div>
 
